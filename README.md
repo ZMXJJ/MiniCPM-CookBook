@@ -57,6 +57,9 @@
 - [MiniCPM-Llama3-V 2.5](https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5)
 - [MiniCPM-V 2.6](https://huggingface.co/openbmb/MiniCPM-V-2_6)
 - [MiniCPM 3.0 4B](https://huggingface.co/openbmb/MiniCPM3-4B)
+- [MiniCPM-o 2.6 8B](https://huggingface.co/openbmb/MiniCPM-o-2_6)
+- [MiniCPM 4.0 8B](https://huggingface.co/openbmb/MiniCPM4-8B)
+- [MiniCPM 4.0 0.5B](https://huggingface.co/openbmb/MiniCPM4-0.5B)
 
 ## 推理部署(✅)
 #### MiniCPM 2.4B
